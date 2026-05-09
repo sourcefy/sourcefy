@@ -1,77 +1,99 @@
-<!--
-███╗   ██╗██╗███╗   ███╗███████╗
-████╗  ██║██║████╗ ████║██╔════╝
-██╔██╗ ██║██║██╔████╔██║█████╗  
-██║╚██╗██║██║██║╚██╔╝██║██╔══╝  
-██║ ╚████║██║██║ ╚═╝ ██║███████╗
-╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚══════╝
--->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff66cc&height=220&section=header&text=Konnichiwa%20%F0%9F%8C%B8&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a0522d&height=240&section=header&text=Emanuel%20+%20Anime&fontSize=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Anime+Lover+%E2%9C%A8;GitHub+Profile+mit+Style+%F0%9F%92%97;Code+%2B+Waifus+%3D+Happiness+%F0%9F%98%8D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=a0522d&center=true&vCenter=true&width=650&lines=Code+mit+Braunem+Vibe%20%F0%9F%8C%B8;Anime+und+Tech+verbinden%20%F0%9F%92%9B" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/6X9QX6z.gif" width="280" />
+  <img src="https://i.gifer.com/76JB.gif" width="220" />
 </p>
 
-## 🌸 Über mich
+---
 
-Hey, ich bin **DEIN NAME**.  
-Ich baue Projekte mit viel Liebe, ein bisschen Chaos und ganz viel Anime-Vibe. 🎌
+## 🌾 Wer ich bin
 
-- 🌟 Lieblingsanime: **DEIN ANIME**
-- 💻 Ich liebe: **Coding, Design, Game Dev**
-- 🎧 Immer dabei: **Lofi / J-Pop / Anime OSTs**
-- 🍜 Lebensziel: **mehr RAM, mehr RAMEN**
+Hallo, ich bin **Emanuel** aus Dortmund.  
+Ich baue Projekte mit sauberem Code, braunen Farbthemen und einem starken Anime‑Fokus – aber alles **logisch aufgebaut**, damit du nicht im Chaos versinkst. 🎌
 
-## 🧠 Skills
+### 💡 Was ich mache
+- 🧑‍💻 Software‑Entwicklung & kleine Tools
+- 🎨 Design‑Experimente und UI‑Experiments
+- 🎌 Anime‑Watch‑Sessions nach produktiven Coding‑Phasen
 
-| Bereich | Tech |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Node.js, Python |
-| Tools | Git, GitHub, VS Code |
-| Extras | Figma, Blender, Canva |
+---
 
-## 📺 Aktuell am Start
+## 🧠 Skills & Tech (logisch gegliedert)
+
+| Bereich        | Technologien / Tools |
+|---------------|----------------------|
+| Programmieren | JavaScript, Python, Rust |
+| Web‑Frontend  | HTML, CSS, React, Next.js |
+| Tools & Dev   | Git, GitHub, Docker, VS Code |
+| Extras        | Figma, Markdown, Linux‑Basis |
+
+---
+
+## 🎬 Anime‑Teil (logisch organisiert)
 
 <details>
-<summary>Anime Watchlist</summary>
+<summary>Meine Top‑Anime</summary>
 
-- Jujutsu Kaisen
-- Demon Slayer
-- Frieren
-- Solo Leveling
-- One Piece
+- Jujutsu Kaisen  
+- Demon Slayer  
+- Mushoku Tensei  
+- Spy x Family  
+- One Piece  
+- Frieren: Hitting the Way to the Other Side  
 
 </details>
 
 <details>
-<summary>To-Do im Repo</summary>
+<summary>Status der Liste</summary>
 
-- [ ] Profil noch schöner machen
-- [ ] Mehr Banner hinzufügen
-- [ ] Projektliste erweitern
-- [ ] GitHub Stats einbauen
+- 🟢 Watching: `DEIN LAUFENDER ANIME`
+- 🟡 Plan To Watch: `2–3 weitere`
+- 🟡 Rewatch: `Lieblings‑Retry`
 
 </details>
 
-## ✨ Stats
+---
+
+## 📈 GitHub‑Stats (braun‑themed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EMAHLUHN&show_icons=true&theme=shadow_brown" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMAHLUHN&layout=compact&theme=shadow_brown" />
+  <img src="https://streak-stats.demolab.com?user=EMAHLUHN&theme=shadow_brown" />
 </p>
 
-## 💬 Quote
+Die Karten nutzen hier das braune Theme `shadow_brown`, das sauber zu deinem Profil passt und trotzdem Anime‑Flair behält [web:28].  
 
-> “Nichts ist unmöglich, wenn du dranbleibst.” ✨
+---
+
+## 🎵 Soundtrack‑Flow
+
+| Phasen      | Musiktyp |
+|------------|----------|
+| Coden      | Lofi, J‑Pop, Chiptune |
+| Pause      | Anime‑OSTs, Game‑Soundtracks |
+
+---
+
+## 💬 Zitat
+
+> „Gut strukturierter Code ist wie ein sauberes Anime‑OP:  
+> Alles hat seinen Platz – und am Ende sieht es einfach … *lecker* aus.“ 🍵
+
+---
+
+## 🌰 Farbthema
+
+- Primärfarbe: Braun (`#a0522d`, wie Kakao)  
+- Sekundär: Dunkles Grau / Weiß als Kontrast  
+- Emojis: Sparsam, nur dort, wo sie Sinn und Emotion bringen  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff66cc&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a0522d&height=140&section=footer" />
 </p>
